@@ -3,7 +3,7 @@
 ## Brief Introduction:
 1) Project in the domain of Supervised learning.
 2) Implemented K-Nearest Neighbors Algorithm in C language, and the KNN Algorithm was applied to the given data sets based on that Accuracy and Standard Deviations were calculated.
-3) Observed performance of KNN Algorithm in different cases like Weighted Euclidean, Unweighted Euclidean, Weighted Manhattan, and Unweighted Manhattan distances using graphs while taking x-axis as K-Value and y-axis as Accuracy.
+3) Observed performance of KNN Algorithm in different cases like Weighted Euclidean, Unweighted Euclidean, Weighted Manhattan, and Unweighted Manhattan distances using graphs taking x-axis with K-Value and y-axis with Accuracy.
 
 ## Full Explanation:
  * We will find Average Accuracy and Standard Deviation for a given data set
