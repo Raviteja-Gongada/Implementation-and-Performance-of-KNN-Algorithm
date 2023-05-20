@@ -5,13 +5,13 @@
 2) Implemented K-Nearest Neighbors Algorithm in C language, and the KNN Algorithm was applied to the given data sets based on that Accuracy and Standard Deviations were calculated.
 3) Observed performance of KNN Algorithm in different cases like Weighted Euclidean, Unweighted Euclidean, Weighted Manhattan, and Unweighted Manhattan distances using graphs taking x-axis with K-Value and y-axis with Accuracy.
 
-<img src="Graphs for Performance of data sets on KNN Algorithm/Performance_anneal.png">
+<img src="Graphs for Performance of data sets on KNN Algorithm/Performance_anneal.jpg">
 
-<img src="Graphs for Performance of data sets on KNN Algorithm/Performance_hdhung.png">
+<img src="Graphs for Performance of data sets on KNN Algorithm/Performance_hdhung.jpg">
 
-<img src="Graphs for Performance of data sets on KNN Algorithm/Performance_hepatitis.png">
+<img src="Graphs for Performance of data sets on KNN Algorithm/Performance_hepatitis.jpg">
 
-<img src="Graphs for Performance of data sets on KNN Algorithm/Performance_iris.png">
+<img src="Graphs for Performance of data sets on KNN Algorithm/Performance_iris.jpg">
 
 ## Full Explanation:
  * We will find Average Accuracy and Standard Deviation for a given data set
